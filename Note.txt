@@ -1,0 +1,11 @@
+Submitted By: Tanmoy Sen
+
+1.Used own font and colours.
+2.Submission is responsive in desktop,laptop,tablet,and mobile.(changes design in mobile/tablet to 
+enhance user experience )
+3.Tested on latest browsers.
+4.Not used any css or js frameworks or plugins.
+5.css3 properties used on this page(box-shadow,border-radius,flex,overflow,@keyframes,animation etc..)
+6.Code minimized(maintained code readability)
+7.PNG images compressed using TinyPNG
+
